@@ -3,6 +3,8 @@ title: "About"
 draft: false
 ---
 
-# About Us
+# About
 
-Made with ❤️ by the *Hugo Bootstrap Theme* [team](https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors).
+Template provided by *Hugo Bootstrap Theme* [team](https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors).
+
+Template used by [Ash Fujiyama](https://github.com/ashfujiyama).
