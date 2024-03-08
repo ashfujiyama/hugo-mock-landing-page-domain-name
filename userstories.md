@@ -1,12 +1,28 @@
 # User Stories for Synthesium
 
-This is a backlog of user stories for IntegriMark, [an actual tool for watermarking and encrypting educational materials](https://github.com/integrimark). These user stories are provided as a toy example, and do not coincide with actual features of IntegriMark, except for the **Current Features**, which are both actually implemented in the tool and highlighted in this landing page.
+Synthesium is a made-up software tool for worldbuilders, lore-trackers, and story-writers.  The main purpose is to make information recording and categorization more streamlined.  It allows for a reorganizable visual layout, multiple modes of displaying information, and an intuitive tagging system that allows for as much customization the user desires.  
 
-## Current Features
+The name, Synthesium is a portmanteau of "synthesis" and "arcanium" (which is itself a portmanteau of "arcane" and "compendium").  The original inspiration for this product is from my own dreams of a tool that I could use to categorize all of the lore and knowledge of spellcraft from my favorite trio of book series from the same author: __The Arinthian Line__, __Fury of a Rising Dragon__, and __The Chronicles of Anna Atticus Stone__ by Sever Bronny.  Magic in this book series is known as "arcanery," and thus an arcanium would serve to collect all knowledge about arcanery.  
 
-These are features that are currently implemented in IntegriMark, and which feature on the landing page.
+Cataloguing and recording information about an entire book universe and a rich magic system that takes place across 12 books (and more being released every year) would requrire an equally rich categorization system, and thus my idea for this product was born.
 
-### All Stories (TODO: delete)
+Note that while many of my user stories are ones that I personally resonate with, I attempt to add different perspectives of other users who may use it.
+
+## All Features (TODO: delete)
+
+1. Categorization system through tagging (and tag hierarchies).  Tags can also serve as visual buckets. Tags and categories can also have a symbolic representation, either an icon provided by the software or uploaded by the user.
+
+2. Search feature and tag filters.  The ability to toggle between set operations (union, intersection, minus) for more complexity when filtering using more than one tag.
+
+3. Collaboration Feature: syncronize information across multiple accounts instantly, moderation system to ensure integrity and persisting meaning of categorization system, and viewing restrictions.
+
+4. Multiple ways to store and display collected information: paragraphs, lists, bullets, graphs, timelines, notecards, connections displayed like edges.  The ability to treat each display component as an individual item to move and rearrange on screen.
+
+5. Easy reordering and recategorization of information.  Ability to have a "dumping ground" that can later be tagged and split up.  Notification system if I'm adding redundant information that could be found in another location.
+
+6. Customizability of experience: provide an intuitive system to start with, and have a setting to turn on "customize mode" which allows you to add default keyboard shortcuts or even create your own automations and shortcuts.
+
+## All Stories (TODO: delete)
 
 As a world builder with a large volume of lore to track, I want to search through the collection of information for specific keywords and pull information from different locations to make consolidation of knowledge easier.
 
