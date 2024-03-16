@@ -9,3 +9,5 @@ menu:
 # Contact
 
 [Open an issue](https://github.com/ashfujiyama/hugo-mock-landing-page/issues) on GitHub.
+
+this is extra content.
