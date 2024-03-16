@@ -1,9 +1,11 @@
 .home {
     --bd-purple: #0d5390;
-    --bd-violet: #2f99c3;
+    /*should be: 2f99c3*/
+    --bd-violet: #c32f2f;
     --bd-accent: #147995;
     --bd-violet-rgb: 47,153,195;
-    --bd-accent-rgb: 20,121,149;
+    /*should be 20, 121, 149*/
+    --bd-accent-rgb: 100,21,19;
     --bd-pink-rgb: 118,214,253;
 
     .bd-masthead {
