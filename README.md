@@ -1,15 +1,14 @@
-# hugo-mock-landing-page
+# hugo-mock-landing-page-automated
 
-The first homework in CIS 3500, a software engineering class at Penn taught by Jérémie Lumbroso.
+Part 2 of second homework in CIS 3500, a software engineering class at Penn taught by Jérémie Lumbroso.
 
 Assignment completed by Ash Fujiyama
 
-A landing page advertising a product known as
+This project is the culmination of learning how to automate website deployment of [a landing page made in a previous homework](https://github.com/ashfujiyama/hugo-mock-landing-page).  This website will update itself every time changes are pushed.
 
-## Synthesium: for world builders, story tellers, lore trackers, and anyone holding a universe in their head
+## Steps Taken
 
-Synthesium is a made-up software tool for worldbuilders, lore-trackers, and story-writers.  The main purpose is to make information recording and categorization more streamlined.  It allows for a reorganizable visual layout, multiple modes of displaying information, and an intuitive tagging system that allows for as much customization the user desires.  
-
-The name, Synthesium is a portmanteau of "synthesis" and "arcanium" (which is itself a portmanteau of "arcane" and "compendium").  The original inspiration for this product is from my own dreams of a tool that I could use to categorize all of the lore and knowledge of spellcraft from my favorite trio of book series from the same author: <ins>The Arinthian Line</ins>, <ins>Fury of a Rising Dragon</ins>, and <ins>The Chronicles of Anna Atticus Stone</ins> by [Sever Bronny](https://severbronny.com/).  Magic in this book series is known as "arcanery," and thus an arcanium would serve to collect all knowledge about arcanery.  
-
-Cataloguing and recording information about an entire book universe and a rich magic system that takes place across 12 books (and more being released every year) would requrire an equally rich categorization system, and thus my idea for this product was born.
+1. Imported my repository linked above, updated the url in the config file
+2. Added the deployment yaml file, used claude to understand how it works
+3. Configure the repository settings: change GITHUB_TOKEN permissions to read *and write*, changed the publishing source to gh-pages, and changed permissions to allow all actions
+4. Test and debug deployment
