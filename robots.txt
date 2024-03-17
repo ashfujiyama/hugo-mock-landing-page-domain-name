@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: /404.html
-Sitemap: synthesium.xyz/sitemap.xml
+Sitemap: https://synthesium.xyz/sitemap.xml
