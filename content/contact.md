@@ -6,7 +6,6 @@ menu:
     weight: 90
 ---
 
+# Contact
 
 [Open an issue](https://github.com/ashfujiyama/hugo-mock-landing-page/issues) on GitHub.
-
-hello...?
