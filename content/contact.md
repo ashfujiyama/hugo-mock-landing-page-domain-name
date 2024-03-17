@@ -8,4 +8,4 @@ menu:
 
 # Contact
 
-hello world 
+hello world.
