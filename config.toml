@@ -1,4 +1,4 @@
-baseURL = 'https://ashfujiyama.github.io/hugo-mock-landing-page-domain-name/'
+#baseURL = 'https://ashfujiyama.github.io/hugo-mock-landing-page-domain-name/'
 title = "Synthesium"
 author = "Ash Fujiyama"
 copyright = "Ash Fujiyama"
